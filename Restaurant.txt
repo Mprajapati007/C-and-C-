@@ -4,3 +4,6 @@ Staff = Ravi
 Talwara
 Cook Tathagat
 Cleaner = Lanjha
+
+Todays income = $150
+Thankyou
