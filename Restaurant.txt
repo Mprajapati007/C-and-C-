@@ -1,0 +1,6 @@
+Name = Faujji dhaba
+Address = Near BCET
+Staff = Ravi
+Talwara
+Cook Tathagat
+Cleaner = Lanjha
